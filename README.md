@@ -43,6 +43,7 @@ I made this project based on my own knowledge and understanding during learning 
 ## 🧑‍💻 Author
 
 **Aamir Neyazi**
+aamirneyazi93@gmail.com
 
 
 
