@@ -7,7 +7,7 @@ I made this project based on my own knowledge and understanding during learning 
 
 ![Criteria Matched](screenshot1.png)
 ![Criteria doesn't matched](screenshot2.png)
-
+ 
 ## 🚀 Demo
 
 [Live Demo](https://attendance-monitor.netlify.app/)
