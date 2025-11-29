@@ -10,7 +10,7 @@ I made this project based on my own knowledge and understanding during learning 
  
 ## 🚀 Demo
 
-[Live Demo](https://attendance-monitor.netlify.app/)
+[Live Demo](https://attendance-monitor.netlify.app/) 
 
 ---
 
