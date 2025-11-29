@@ -1,4 +1,4 @@
-# 📋 Attendance Monitor 
+# 📋 Attendance Monitor  
 
 A simple and interactive **Attendance Monitoring Web App** built using **HTML, CSS, and JavaScript**.  
 It helps track attendance efficiently with an easy-to-use interface.
