@@ -3,7 +3,7 @@
 A simple and interactive **Attendance Monitoring Web App** built using **HTML, CSS, and JavaScript**.  
 It helps track attendance efficiently with an easy-to-use interface. 
  
-I made this project based on my own knowledge and understanding during learning web dev basics.    
+I made this project based on my own knowledge and understanding during learning web dev basics.
  
 ![Criteria Matched](screenshot1.png)
 ![Criteria doesn't matched](screenshot2.png)
